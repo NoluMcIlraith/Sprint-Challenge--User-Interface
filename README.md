@@ -34,13 +34,26 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is a markup which is descriptive. It allows a webapge markup to have meaning and describes the various components that makeup a web page.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+dispaly: block has whitespace above and below and doesnt allow html elements to be nested next to it
+
+display: inline: allows a block to be displayed on the same line of a block
 
 3. What are the 4 areas of the box model?
 
+content, margin, padding, border
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable to a developer because it allows developers to work on the same project simulatenously. Additionally, it allows developers to save previous versions of their projects in the case that thier code may break and they need to restore the project to previous versions.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
